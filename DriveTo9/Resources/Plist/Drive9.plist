@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>SectionTitle</key>
+		<string>Start Readiness Assessment</string>
+		<key>image</key>
+		<string>sra.png</string>
+		<key>RowTitle</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Current Environment</string>
+				<key>image</key>
+				<string>ce.png</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Summary</string>
+				<key>image</key>
+				<string>s.png</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Recommendation</string>
+				<key>image</key>
+				<string>r.png</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Upgrade Procedures</string>
+				<key>image</key>
+				<string>up.png</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>SectionTitle</key>
+		<string>My Assessment</string>
+		<key>image</key>
+		<string>ma.png</string>
+		<key>RowTitle</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Org1-Cluster2-Assessment</string>
+				<key>image</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Org1-Cluster2-Assessment (2)</string>
+				<key>image</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Org1-Cluster2-Assessment (3)</string>
+				<key>image</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Org2-Cluster1-Assessment</string>
+				<key>image</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Org2-Cluster2-Assessment</string>
+				<key>image</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
